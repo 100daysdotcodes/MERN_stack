@@ -1,0 +1,14 @@
+/*
+learning interface is nothing but another way to do things in your pc
+start using them and use the gui least
+pwd
+cd 
+ls
+mkdir
+cp
+rm
+rmdir
+node 
+npm
+git
+*/
